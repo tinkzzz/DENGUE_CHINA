@@ -1,4 +1,4 @@
-# DENGUE_CHINA_2019
+# DENGUE_CHINA
 
 Code for Haobo Ni, Xiaoyan Cai, Jiarong Ren, Tingting Dai, Jiayi Zhou, Jiumin Lin, Li Wang, Lingxi Wang, Yunchong Yao, Ting Xu, Lina Xiao, Qiyong Liu, Xiaobo Liu, Pi Guo, "Epidemiological characteristics and transmission dynamics of dengue fever in China: a nationwide modelling study", 2024.
 
