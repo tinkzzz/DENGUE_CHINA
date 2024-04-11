@@ -28,9 +28,9 @@ c. The average number of commuters between two cities is stored in the vector Ca
 6. weight.mat: initial parameter weights
 
 ## How to run inference
-To speed up the inference, the transmission model is programmed in C++. The inference function calls the C++ function through interface between MATLAB and C++.
+To speed up the inference, the transmission model is programmed in C++. The inference function calls the C++ function through interface between Matlab (R2022b) and C++.The typical install time on a "normal" desktop computer is one hour. The expected run time for demo on a "normal" desktop computer is three hours.
 
-1. Compile the C++ function in MATLAB using “mex model_eakf.cpp”. A C++ compiler (e.g., Xcode) needs to be installed on the computer before running this command.
+1. Compile the C++ function in Matlab (R2022b) using “mex model_eakf.cpp”. A C++ compiler (e.g., Xcode) needs to be installed on the computer before running this command. 
 2. Run infer.m
 
 ## Outputs
